@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[oyb:home|Door43 (oyb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-oyb|d43-oyb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-oyb/archive/master.zip|d43-oyb.zip]]
+
+**Recent Changes**
+{{changes>ns = oyb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/oyb|Ethnologue data]]
+
